@@ -1,0 +1,13 @@
+AverageCalculator.class
+WordCount.class
+AverageCalculator$SecondaryReduce.class
+AverageCalculatorMultiLine$SecondaryReduce.class
+WordCount$IntSumReducer.class
+AverageCalculator$PrimaryReduce.class
+AverageCalculatorMultiLine$PrimaryReduce.class
+AverageCalculatorMultiLine.class
+WordCount$TokenizerMapper.class
+AverageCalculator$SecondaryMap.class
+AverageCalculator$PrimaryMap.class
+AverageCalculatorMultiLine$SecondaryMap.class
+AverageCalculatorMultiLine$PrimaryMap.class
